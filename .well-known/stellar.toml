@@ -1,27 +1,27 @@
 VERSION="2.0.0" NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015" 
 
 ACCOUNTS=[ 
-"GDRBZLCRHRDI7IJYPFNQKBAMBGZBIY7D7BMOP2GZII7FOR5TSNXUBL62", 
-"GBQO4XSIUPQE5SQNIFRRWURW4T7YARF4V4HBEU333664365V6GEXJGYF" 
+"GCAGQSW6TYDAP3AVOWKJVFFP5FGDYXVHEZRM2Q5KVNDOFFGJHI2G6OZA", 
+"GBLF4PSXHKNFUMGO2K2OHY57STC32K7OZHBTYXY3L6KILPEHDEFO3LD3" 
 ] 
 
 [DOCUMENTATION] 
-ORG_NAME="plexo" 
-ORG_LOGO="https://github.com/plexoassets/lexo/blob/main/XS.png" 
-ORG_DESCRIPTION="Plexo es una empresa del sector cultural dedicada a la produccion y realizacion de eventos" 
-ORG_PHYSICAL_ADDRESS="Reus" 
+ORG_NAME="MARFIL" 
+ORG_LOGO="https://github.com/plexoassets/MARFIL/blob/main/XS.png" 
+ORG_DESCRIPTION="MARFIL IS AN ASSET FROM PLEXO" 
+ORG_PHYSICAL_ADDRESS="SPAIN" 
 ORG_OFFICIAL_EMAIL="plexo@plexo.cat"
-ORG_URL="https://plexo.cat"
+ORG_URL="https://github.com/plexoassets/MARFIL"
 
 [[CURRENCIES]] 
-code="LEXO" 
-issuer="GDRBZLCRHRDI7IJYPFNQKBAMBGZBIY7D7BMOP2GZII7FOR5TSNXUBL62" 
+code="MARFIL" 
+issuer="GCAGQSW6TYDAP3AVOWKJVFFP5FGDYXVHEZRM2Q5KVNDOFFGJHI2G6OZA" 
 display_decimals=6 
 is_asset_anchored=false 
-name="LEX"
-desc="Un token para utilizar en eventos como forma de pago, premios o recompensas, intercambio, etc" 
-conditions="Hay 1.000.000.000 LEX. Se distribuiran de diferente manera entre los usuarios de la red de Plexo" 
-image="https://github.com/plexoassets/lexo/blob/main/XS.png"
+name="MARFIL"
+desc="Un token ESCASO EXPERIMENTAL" 
+conditions="unica emision de 1.000.000 de MARFIL" 
+image="https://github.com/plexoassets/MARFIL/blob/main/XS.png"
 # LEX (LEXO) Token was issued using the open and inclusive Stellar blockchain network. 
-# Home Domain: plexo.cat
-# LEX Token
+# Home Domain: github.com/plexoassets/MARFIL
+# MARFIL Token
