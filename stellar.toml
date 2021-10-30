@@ -1,27 +1,37 @@
-VERSION="2.0.0" NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015" 
+# MARFIL stellar.toml
 
-ACCOUNTS=[ 
-"GCAGQSW6TYDAP3AVOWKJVFFP5FGDYXVHEZRM2Q5KVNDOFFGJHI2G6OZA", 
-"GBLF4PSXHKNFUMGO2K2OHY57STC32K7OZHBTYXY3L6KILPEHDEFO3LD3" 
-] 
+NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
-[DOCUMENTATION] 
-ORG_NAME="MARFIL" 
-ORG_LOGO="https://github.com/plexoassets/MARFIL/blob/main/XS.png" 
-ORG_DESCRIPTION="MARFIL IS AN ASSET FROM PLEXO" 
-ORG_PHYSICAL_ADDRESS="SPAIN" 
-ORG_OFFICIAL_EMAIL="plexo@plexo.cat"
-ORG_URL="https://github.com/plexoassets/MARFIL"
+DOMAIN="https://plexo.cat"
 
-[[CURRENCIES]] 
-code="MARFIL" 
-issuer="GCAGQSW6TYDAP3AVOWKJVFFP5FGDYXVHEZRM2Q5KVNDOFFGJHI2G6OZA" 
-display_decimals=6 
-is_asset_anchored=false 
-name="MARFIL"
-desc="Un token ESCASO EXPERIMENTAL" 
-conditions="unica emision de 1.000.000 de MARFIL" 
-image="https://github.com/plexoassets/MARFIL/blob/main/XS.png"
-# LEX (LEXO) Token was issued using the open and inclusive Stellar blockchain network. 
-# Home Domain: github.com/plexoassets/MARFIL
-# MARFIL Token
+URI_REQUEST_SIGNING_KEY="GBLF4PSXHKNFUMGO2K2OHY57STC32K7OZHBTYXY3L6KILPEHDEFO3LD3"
+
+ACCOUNTS=[
+"GC2ARUBS34AZ3FPITHGTEI2EIEWIRDVEP2RADPA5IMAB33RQOEAESL23",
+"GBLF4PSXHKNFUMGO2K2OHY57STC32K7OZHBTYXY3L6KILPEHDEFO3LD3"]
+
+[DOCUMENTATION]
+ORG_NAME="MARFIL"
+ORG_URL="https://plexo.cat"
+ORG_LOGO="https://scopuly.com/img/logo/500x200.png"
+ORG_DESCRIPTION="Scopuly - Stellar Wallet & SDEX. A simple and secure cross-platform Stellar wallet that gives you the most complete control over your Stellar account. In Scopuly, you can: securely store and transfer crypto assets; make cross-border multicurrency payments; buy / sell crypto for fiat; issue your own tokens and trade on the SDEX decentralized exchange in real time with no fees. Scopuly is the perfect way to decentralize, store, manage, invest, trade, pay and move crypto assets."
+ORG_TWITTER="https://twitter.com/Scopuly"
+ORG_GITHUB="https://github.com/Scopuly"
+ORG_TELEGRAM="https://t.me/scopuly"
+ORG_OFFICIAL_EMAIL="info@scopuly.com"
+
+[[CURRENCIES]]
+code="SCOP"
+name="Scopuly"
+issuer="GC2ARUBS34AZ3FPITHGTEI2EIEWIRDVEP2RADPA5IMAB33RQOEAESL23"
+desc="Access, governance and liquidity token. SCOP rewards users, holders, traders, liquidity providers, ambassadors and contributes to the growth of the Scopuly community and ecosystem, as well as providing access to some of Scopuly's special services."
+conditions="Total issued 10B SCOP. Further emission is not possible."
+image="https://scopuly.com/img/logo/icon.png"
+status="live"
+display_decimals=7
+fixed_number=10000000000
+
+[[PRINCIPALS]]
+email="info@scopuly.com"
+twitter="@scopuly"
+telegram="@scopuly"
