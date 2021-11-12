@@ -2,7 +2,7 @@
 
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
-DOMAIN="https://plexo.cat"
+DOMAIN="https://marfiltkn.wordpress.com"
 
 URI_REQUEST_SIGNING_KEY="GBLF4PSXHKNFUMGO2K2OHY57STC32K7OZHBTYXY3L6KILPEHDEFO3LD3"
 
@@ -12,7 +12,7 @@ ACCOUNTS=[
 
 [DOCUMENTATION]
 ORG_NAME="MARFIL"
-ORG_URL="https://plexo.cat"
+ORG_URL="https://marfiltkn.wordpress.com"
 ORG_LOGO="https://scopuly.com/img/logo/500x200.png"
 ORG_DESCRIPTION="Scopuly - Stellar Wallet & SDEX. A simple and secure cross-platform Stellar wallet that gives you the most complete control over your Stellar account. In Scopuly, you can: securely store and transfer crypto assets; make cross-border multicurrency payments; buy / sell crypto for fiat; issue your own tokens and trade on the SDEX decentralized exchange in real time with no fees. Scopuly is the perfect way to decentralize, store, manage, invest, trade, pay and move crypto assets."
 ORG_TWITTER="https://twitter.com/Scopuly"
