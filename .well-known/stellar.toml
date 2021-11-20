@@ -11,7 +11,7 @@ ORG_LOGO="https://github.com/plexoassets/MARFIL/blob/main/XS.png"
 ORG_DESCRIPTION="MARFIL IS AN ASSET FROM PLEXO" 
 ORG_PHYSICAL_ADDRESS="SPAIN" 
 ORG_OFFICIAL_EMAIL="plexo@plexo.cat"
-ORG_URL="https://github.com/plexoassets/MARFIL"
+ORG_URL="https://plexo.cat"
 
 [[CURRENCIES]] 
 code="MARFIL" 
@@ -23,5 +23,5 @@ desc="Un token ESCASO EXPERIMENTAL"
 conditions="unica emision de 1.000.000 de MARFIL" 
 image="https://github.com/plexoassets/MARFIL/blob/main/XS.png"
 # LEX (LEXO) Token was issued using the open and inclusive Stellar blockchain network. 
-# Home Domain: github.com/plexoassets/MARFIL
+# Home Domain: https://plexo.cat
 # MARFIL Token
