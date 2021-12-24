@@ -2,7 +2,7 @@
 
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
-DOMAIN="https://marfiltkn.wordpress.com"
+DOMAIN="https://plexo.cat"
 
 URI_REQUEST_SIGNING_KEY="GBLF4PSXHKNFUMGO2K2OHY57STC32K7OZHBTYXY3L6KILPEHDEFO3LD3"
 
@@ -13,25 +13,23 @@ ACCOUNTS=[
 [DOCUMENTATION]
 ORG_NAME="MARFIL"
 ORG_URL="https://marfiltkn.wordpress.com"
-ORG_LOGO="https://scopuly.com/img/logo/500x200.png"
-ORG_DESCRIPTION="Scopuly - Stellar Wallet & SDEX. A simple and secure cross-platform Stellar wallet that gives you the most complete control over your Stellar account. In Scopuly, you can: securely store and transfer crypto assets; make cross-border multicurrency payments; buy / sell crypto for fiat; issue your own tokens and trade on the SDEX decentralized exchange in real time with no fees. Scopuly is the perfect way to decentralize, store, manage, invest, trade, pay and move crypto assets."
-ORG_TWITTER="https://twitter.com/Scopuly"
-ORG_GITHUB="https://github.com/Scopuly"
-ORG_TELEGRAM="https://t.me/scopuly"
-ORG_OFFICIAL_EMAIL="info@scopuly.com"
+ORG_LOGO="https://marfiltkn.files.wordpress.com/2021/12/marfil02.png"
+ORG_DESCRIPTION="ART & CULTURE ORGANIZATION"
+ORG_OFFICIAL_EMAIL="marfiltkn@gmail.com"
 
 [[CURRENCIES]]
-code="SCOP"
-name="Scopuly"
+code="MARFIL"
+name="MARFIL"
 issuer="GC2ARUBS34AZ3FPITHGTEI2EIEWIRDVEP2RADPA5IMAB33RQOEAESL23"
-desc="Access, governance and liquidity token. SCOP rewards users, holders, traders, liquidity providers, ambassadors and contributes to the growth of the Scopuly community and ecosystem, as well as providing access to some of Scopuly's special services."
-conditions="Total issued 10B SCOP. Further emission is not possible."
-image="https://scopuly.com/img/logo/icon.png"
+desc="EXPERIMENTAL TOKEN."
+image="https://marfiltkn.files.wordpress.com/2021/12/marfil02.png"
 status="live"
-display_decimals=7
-fixed_number=10000000000
+display_decimals=5
+fixed_number=30000000
 
 [[PRINCIPALS]]
-email="info@scopuly.com"
-twitter="@scopuly"
-telegram="@scopuly"
+email="marfiltkn@gmail.com"
+
+# MARFIL (MARFIL) Token was issued using the open and inclusive Stellar blockchain network.
+# Home Domain: plexo.cat
+# MARFIL Token
