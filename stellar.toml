@@ -1,8 +1,22 @@
+Access-Control-Allow-Origin: *
+
+# Federation service provided by StellarID.io
+FEDERATION_SERVER="https://stellarid.io/federation/"
+
+ACCOUNTS=[
+"GDSRO6H2YM6MC6ZO7KORPJXSTUMBMT3E7MZ66CFVNMUAULFG6G2OP32I"
+]
+
+[[PRINCIPALS]]
+name="François Rejeté"
+email="francois@stellarid.io"
+keybase="frejete"
+
 # MARFIL stellar.toml
 
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
-DOMAIN="https://plexo.cat"
+DOMAIN="https://stellarid.io/federation"
 
 URI_REQUEST_SIGNING_KEY="GBLF4PSXHKNFUMGO2K2OHY57STC32K7OZHBTYXY3L6KILPEHDEFO3LD3"
 
@@ -12,7 +26,7 @@ ACCOUNTS=[
 
 [DOCUMENTATION]
 ORG_NAME="MARFIL"
-ORG_URL="https://marfiltkn.wordpress.com"
+ORG_URL="https://stellarid.io/federation"
 ORG_LOGO="https://marfiltkn.files.wordpress.com/2021/12/marfil02.png"
 ORG_DESCRIPTION="ART & CULTURE ORGANIZATION"
 ORG_OFFICIAL_EMAIL="marfiltkn@gmail.com"
